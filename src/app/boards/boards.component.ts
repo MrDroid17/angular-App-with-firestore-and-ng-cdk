@@ -16,8 +16,6 @@ export class BoardsComponent implements OnInit {
   ngOnInit() {
   }
 
-
-
 }
 
 export class BoardDataSource extends DataSource<any> {
